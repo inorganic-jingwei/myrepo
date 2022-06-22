@@ -1,3 +1,5 @@
 # myrepo
 Repository for testing my Git/GitHub setup
-This is a line from RStudioBrowsing aboud
+This is a line from RStudio
+
+Browsing aboud
